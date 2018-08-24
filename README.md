@@ -22,6 +22,10 @@ Either run
 ```
 composer require webvimark/module-user-management
 ```
+else
+```
+php composer.phar require webvimark/module-user-management
+```
 
 or add
 
